@@ -12,8 +12,8 @@ function staticLoadPlaces() {
         {
             name: 'TowerBridge',
             location: {
-                lat: 55.747960,
-                lng: -4.643990, 
+                lat: 51.50552985857558, 
+                lng:  -0.07539941534347706, 
             },
         },
     ];
