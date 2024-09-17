@@ -23,7 +23,7 @@ var media = [
     {
         type: 'image',
         url: './assets/Image1.jpg',
-        scale: '5 5 5', // Adjust scale as needed
+        scale: '50 50 50', // Adjust scale as needed
         rotation: '0 100 0', // Adjust rotation as needed
         info: 'Image description here',
     },
